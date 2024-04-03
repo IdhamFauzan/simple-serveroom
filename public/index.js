@@ -1,6 +1,6 @@
 (function () {
   const app = document.querySelector(".app");
-  const socket = io();
+  const socket = io(https://simple-serveroom.vercel.app);
 
   let uname;
 
